@@ -4,7 +4,7 @@
   "description": "Desafio de uma aplicação que faça interação com firebase e exiba os dados.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Adriel Barbosa Borges",
   "license": "ISC",
