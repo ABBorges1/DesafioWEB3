@@ -1,5 +1,8 @@
 body{
-    background-color: #eceff1;
+    background-image: url(/img/teste1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover; 
+    background-attachment: fixed;
 }
 
 #formulario-pergunta{
@@ -9,3 +12,16 @@ body{
 #tituloPerguntas{
     text-align: center;
 }
+
+#score{
+    text-align: center;
+}
+
+#ranking{
+    text-align: center;
+}
+
+#pontos{
+    text-align: center;   
+}
+

@@ -1,8 +1,6 @@
 const { initializeApp } = require("firebase/app");
 const { getDatabase, ref, child, get } = require('firebase/database')
 
-
-
 const firebaseConfig = {
   apiKey: "AIzaSyCl3UN1U8D3D4RDScc8UrqtjbT2tztsKcI",
   authDomain: "dbzombie-ad1bd.firebaseapp.com",

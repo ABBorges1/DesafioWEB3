@@ -28,6 +28,6 @@ app.get("/", async (req, res)=>{
             return -1
         }
     })
-    res.render("table",{tables})
+    res.render("index",{tables})
 });
 
